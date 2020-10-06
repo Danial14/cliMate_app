@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My_Climate_App</string>
+    <string name="toogle">toogle</string>
+    <string name="back">back</string>
+    <string name="enter_city_name">Enter City name</string>
+</resources>
